@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="broncos">#F57C00</color>
+    <color name="seahawks">#76FF03</color>
+    <color name="backGroundBr">#1565C0</color>
+    <color name="backGroundSh">#00695C</color>
+    <color name="resetButton">#B0BEC5</color>
+</resources>

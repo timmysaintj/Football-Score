@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Football Score</string>
+    <string name="tv_Broncos">Broncos</string>
+    <string name="tv_Seahawks">Seahawks</string>
+    <string name="b_Touchdown">Touchdown</string>
+    <string name="b_ExtraPoint">Extra Point</string>
+    <string name="b_FieldGoal">Field Goal</string>
+    <string name="b_2PtConv">2 Pt Conv.</string>
+    <string name="b_Safety">Safety</string>
+</resources>
